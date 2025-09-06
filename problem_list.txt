@@ -1,0 +1,140 @@
+Here’s a **90-day programming question roadmap**. Each problem is solvable in \~1 hour if you keep focus. Language doesn’t matter (Python, C#, Java all fine). Difficulty ramps gradually.
+
+---
+
+### **Month 1: Core & Patterns (Days 1-30)**
+
+**Arrays & Strings**
+
+1. Reverse a string.
+2. Check if a string is a palindrome.
+3. Find the first non-repeating character in a string.
+4. Implement strstr (substring search).
+5. Remove duplicates from a sorted array.
+6. Find max subarray sum (Kadane’s algorithm).
+7. Move zeros to the end.
+8. Rotate array by k steps.
+9. Merge two sorted arrays.
+10. Longest common prefix.
+
+**Hash Maps & Sets**
+11\. Two Sum.
+12\. Group anagrams.
+13\. Check if two strings are isomorphic.
+14\. Find intersection of two arrays.
+15\. Find the first recurring character.
+
+**Recursion**
+16\. Factorial.
+17\. Fibonacci sequence.
+18\. Print all subsets of a set.
+19\. Generate all string permutations.
+20\. Solve Tower of Hanoi.
+
+**Sorting & Searching**
+21\. Implement binary search.
+22\. Find first and last occurrence of target in sorted array.
+23\. Square root using binary search.
+24\. Search a 2D matrix.
+25\. Merge intervals.
+
+**Mix**
+26\. Longest substring without repeating characters.
+27\. Valid palindrome with at most one removal.
+28\. Remove nth node from end of linked list (simulate arrays if no list yet).
+29\. Find majority element.
+30\. Maximum product subarray.
+
+---
+
+### **Month 2: Data Structures (Days 31-60)**
+
+**Linked Lists**
+31\. Reverse a linked list.
+32\. Detect cycle in a linked list.
+33\. Merge two sorted linked lists.
+34\. Remove duplicates from linked list.
+35\. Add two numbers represented by linked lists.
+
+**Stacks & Queues**
+36\. Valid parentheses.
+37\. Min stack.
+38\. Implement queue using stacks.
+39\. Daily temperatures.
+40\. Sliding window maximum.
+
+**Trees**
+41\. Binary tree inorder traversal.
+42\. Check if two trees are identical.
+43\. Max depth of binary tree.
+44\. Invert a binary tree.
+45\. Lowest common ancestor of two nodes.
+46\. Validate BST.
+47\. Level order traversal.
+48\. Serialize/deserialize a binary tree.
+49\. Diameter of binary tree.
+50\. Convert sorted array to BST.
+
+**Graphs**
+51\. Number of islands (DFS).
+52\. Clone a graph.
+53\. Word ladder (BFS).
+54\. Course schedule (topological sort).
+55\. Shortest path in unweighted graph.
+
+**More practice**
+56\. Find all paths from source to target (graph).
+57\. Detect cycle in directed graph.
+58\. Rotten oranges (grid BFS).
+59\. Flood fill.
+60\. Pacific Atlantic water flow.
+
+---
+
+### **Month 3: Problem Solving & Applications (Days 61-90)**
+
+**Dynamic Programming Basics**
+61\. Climbing stairs.
+62\. Min cost climbing stairs.
+63\. Coin change (minimum coins).
+64\. Coin change (number of ways).
+65\. House robber.
+66\. Maximum subarray sum circular.
+67\. Longest increasing subsequence.
+68\. Unique paths in grid.
+69\. Unique paths with obstacles.
+70\. Minimum path sum.
+
+**Advanced DP**
+71\. Edit distance.
+72\. Longest common subsequence.
+73\. Word break.
+74\. Palindromic substrings count.
+75\. Longest palindromic subsequence.
+
+**Backtracking**
+76\. N-Queens.
+77\. Sudoku solver.
+78\. Generate parentheses.
+79\. Combination sum.
+80\. Word search (2D board).
+
+**System-style problems**
+81\. Design LRU cache.
+82\. Implement rate limiter (token bucket or sliding window).
+83\. Producer-consumer with a bounded buffer.
+84\. Multithreaded print in order.
+85\. Design a stack with max in O(1).
+
+**Final mix**
+86\. Median of two sorted arrays.
+87\. Trap rain water.
+88\. Largest rectangle in histogram.
+89\. Regular expression matching (basic DP).
+90\. Implement autocomplete system (Trie).
+
+---
+
+That’s your **90-day set**. Each day = 1 problem. Keep a notebook of solved patterns. By Day 90, you’ll cover almost every standard interview domain.
+
+Do you want me to also generate a **GitHub-ready folder structure** so you can commit each solution daily and showcase progress?
