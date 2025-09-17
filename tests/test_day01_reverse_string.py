@@ -8,5 +8,5 @@ pair = ("love", reverse_string02("love"))
                           pair,
                           ("i", "i")])
 def test_reverse_string(input, output):
-    assert  reverse_string01(input) == output
+    assert reverse_string01(input) == output
 

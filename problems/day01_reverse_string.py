@@ -16,6 +16,8 @@ def reverse_string02(str):
     reverse_str = "".join(reversed(str))
     return reverse_str
 
+print(reverse_string02('apple'))
+
 
 
 
